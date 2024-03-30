@@ -1,0 +1,5 @@
+ipython==8.12.3
+openai==1.14.3
+opencv_python==4.9.0.80
+python-dotenv==1.0.1
+Requests==2.31.0
